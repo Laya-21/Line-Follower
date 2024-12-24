@@ -1,0 +1,82 @@
+Added Component: Designator=Buck?(MP1584)
+Added Component: Designator=INPUT?(691311500102)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913115001xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691311500102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "02p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feb. 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=J?(61900611121)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61900611121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=OUTPUT?(691311500102)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6913115001xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691311500102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "02p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feb. 2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Component: Designator=TB?(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SPDT)
+Added Pin To Net: NetName=5V Pin=Buck?-7
+Added Pin To Net: NetName=5V Pin=Buck?-8
+Added Pin To Net: NetName=5V Pin=OUTPUT?-1
+Added Pin To Net: NetName=5V Pin=TB?-18
+Added Pin To Net: NetName=5V Pin=TB?-27
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=INPUT?-2
+Added Pin To Net: NetName=12V Pin=U?-2
+Added Net: Name=12V
+Added Pin To Net: NetName=AIN_1 Pin=J?-5
+Added Pin To Net: NetName=AIN_1 Pin=TB?-9
+Added Net: Name=AIN_1
+Added Pin To Net: NetName=AIN_2 Pin=J?-4
+Added Pin To Net: NetName=AIN_2 Pin=TB?-8
+Added Net: Name=AIN_2
+Added Pin To Net: NetName=BIN_1 Pin=J?-3
+Added Pin To Net: NetName=BIN_1 Pin=TB?-12
+Added Net: Name=BIN_1
+Added Pin To Net: NetName=BIN_2 Pin=J?-2
+Added Pin To Net: NetName=BIN_2 Pin=TB?-13
+Added Net: Name=BIN_2
+Added Pin To Net: NetName=GND Pin=Buck?-3
+Added Pin To Net: NetName=GND Pin=Buck?-4
+Added Pin To Net: NetName=GND Pin=Buck?-5
+Added Pin To Net: NetName=GND Pin=Buck?-6
+Added Pin To Net: NetName=GND Pin=INPUT?-1
+Added Pin To Net: NetName=GND Pin=OUTPUT?-2
+Added Pin To Net: NetName=GND Pin=TB?-4
+Added Pin To Net: NetName=GND Pin=TB?-29
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBuck?_1 Pin=Buck?-1
+Added Pin To Net: NetName=NetBuck?_1 Pin=Buck?-2
+Added Pin To Net: NetName=NetBuck?_1 Pin=U?-1
+Added Net: Name=NetBuck?_1
+Added Pin To Net: NetName=PWMA Pin=J?-6
+Added Pin To Net: NetName=PWMA Pin=TB?-6
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=J?-1
+Added Pin To Net: NetName=PWMB Pin=TB?-14
+Added Net: Name=PWMB
+Added Class: Name=Schematic
