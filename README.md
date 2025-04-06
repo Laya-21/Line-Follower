@@ -84,4 +84,4 @@ The code for the Line Follower Robot is written in Arduino C++ and uploaded to a
 
 ![App Screenshot](https://raw.githubusercontent.com/Laya-21/Line-Follower/refs/heads/main/Media/img2.jpg)
 
-![Line Follower Demo](https://raw.githubusercontent.com/Laya-21/Line-Follower/main/Media/gif_1.gif)
+![Line Follower Demo](Media/gif_1.gif)
