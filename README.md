@@ -84,10 +84,7 @@ The code for the Line Follower Robot is written in Arduino C++ and uploaded to a
 
 ![App Screenshot](https://raw.githubusercontent.com/Laya-21/Line-Follower/refs/heads/main/Media/img2.jpg)
 
-| ![Line Following](Media/gif_1.gif) | ![Color Inversion](Media/gif_1.gif) |
+| ![Line Following](Media/gif_1.gif) | ![Color Inversion](Media/gif_2.gif) |
 |:--:|:--:|
 | Line Following | Color Inversion |
 
-![Line Follower Demo](Media/gif_1.gif)
-
-![Line Follower Demo](Media/gif_1.gif)
